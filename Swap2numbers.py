@@ -7,5 +7,5 @@ c = a           #c is an extra variable that holds the value of a
 a = b           #assign the value of b to a
 b = c           #assign the value of c to b
 
-print("a =" + a)
-print("b =" + b)
+print("a = " + a)
+print("b = " + b)
